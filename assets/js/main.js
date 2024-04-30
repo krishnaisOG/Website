@@ -117,8 +117,8 @@ We may release future updates so it will overwrite this file. it's better and sa
     });
 
     //Slider btn push icon
-    $('.testimonial-slider.owl-carousel').find('.owl-prev').html('<img src="assets/img/icons/slide-left.svg" alt="" class="svg">');
-    $('.testimonial-slider.owl-carousel').find('.owl-next').html('<img src="assets/img/icons/slide-right.svg" alt="" class="svg">');
+    $('.testimonial-slider.owl-carousel').find('.owl-prev').html('<img src="./assets/img/icons/slide-left.svg" alt="" class="svg">');
+    $('.testimonial-slider.owl-carousel').find('.owl-next').html('<img src="./assets/img/icons/slide-right.svg" alt="" class="svg">');
 
     /*==================================
     06: Changing svg color 
